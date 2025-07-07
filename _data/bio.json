@@ -1,18 +1,16 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Kylie Cancilla",
     "label": "Student",
-    "picture": "https://github.com/kambergjohnson.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
-    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "picture": "https://github.com/KylieCancilla16.png",
+    "email": "kyliecancilla@gmail.com",
+    "phone": "203-448-6153",
+    "website": "https://KylieCancilla16.github.io",
+    "summary": "I am studying Data Science at the University of San Francisco, graduating May 2026.",
     "profiles": [
-      { "network": "github", "username": "mmaluhia", "url": "http://github.com/changeme" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" },
-      { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
-      { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
+      { "network": "github", "username": "kylie", "url": "http://github.com/KylieCancilla16" },
+      { "network": "linkedin", "username": "mollymaluhia", "url": "https://www.linkedin.com/in/kylie-cancilla/" },
+      { "network": "Google Scholar", "username": "KylieCancilla", "url": "https://scholar.google.com/citations?hl=en&user=SwsoJJwAAAAJ" },
     ]
   },
   "interests": [
