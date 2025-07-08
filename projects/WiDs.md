@@ -6,8 +6,7 @@ title: "WiDs 2025 Datathon Workshops"
 date: 2025
 published: true
 labels:
-  - Lisp
-  - GitHub
+  - Github
 summary: "Three workshops walking participants through a kaggle datathon."
 ---
 
