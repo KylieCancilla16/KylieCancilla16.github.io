@@ -14,28 +14,23 @@
     ]
   },
   "interests": [
-    { "name": "Interactive media" },
-    { "name": "Neuromorphic Computing" },
-    { "name": "Quantum Computing" },
-    { "name": "Robotics" },
-    { "name": "3D Graphics" }
+    { "name": "Deep Learning Architectures" },
+    { "name": "AI Innovations" },
+    { "name": "Transfer Learning in Medical Applications" },
+    { "name": "Predictive Modeling for Disease prevention" }
   ],
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Assembly", "Common Lisp" ]
-    },
-    {
-      "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
+      "keywords": [ "Python (PyTorch, Pandas, NumPy, Scikit-learn, Matplotlib)", "Java", "R", "HTML", "SQL" ]
     }
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "institution": "University of San Francisco",
+      "area": "Data Science (expected May 2026)",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "startDate": "2022-08-16",
       "endDate": "Present",
       "courses": [
       ]
@@ -43,54 +38,26 @@
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "Lawerence Livermore National Laboratory",
+      "position": "Data Science Fellow",
       "website": "",
-      "startDate": "2015-08-01",
+      "startDate": "2025-05-20",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "Contributed to Computational Visual Perception Research",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+         "Developed and trained PyTorch-based neural networks to predict image quality of video frames, enhancing video object detection performance.",
+        "Collaborated in a data science challenge with fellow interns, designing and training models to predict amodal masks for objects in video sequences.",
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
+      "company": "Women in Data Science Worldwide",
+      "position": "Data Sciene intern",
+      "website": "https://www.widsworldwide.org/",
+      "startDate": "2024-09-01",
+      "endDate": "2025-02-01",
+      "summary": "Assisted in organizing the 2025 Women in Data Science (WiDS) annual datathon"
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
-      ]
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
-      "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
-      ]
-    },
-    {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        "Developed a Jupyter Notebook and led workshops for 100+ participants to predict ADHD in adolescent girls using socio-demographic, parenting and connectome data. Guided data exploration, cleaning, and multi-output machine learning model development for ADHD diagnosis and patient sex prediction"
       ]
     }
   ],
