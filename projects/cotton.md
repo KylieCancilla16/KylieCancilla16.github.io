@@ -2,8 +2,8 @@
 layout: project
 type: project
 image: img/cotton/cotton-square.png
-title: "Cotton"
-date: 2014
+title: "WiDs 2025 Datathon Workshops"
+date: 2025
 published: true
 labels:
   - Lisp
