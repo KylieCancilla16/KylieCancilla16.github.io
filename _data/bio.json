@@ -10,7 +10,7 @@
     "profiles": [
       { "network": "github", "username": "kylie", "url": "http://github.com/KylieCancilla16" },
       { "network": "linkedin", "username": "mollymaluhia", "url": "https://www.linkedin.com/in/kylie-cancilla/" },
-      { "network": "Google Scholar", "username": "KylieCancilla", "url": "https://scholar.google.com/citations?hl=en&user=SwsoJJwAAAAJ" },
+      { "network": "Google Scholar", "username": "KylieCancilla", "url": "https://scholar.google.com/citations?hl=en&user=SwsoJJwAAAAJ" }
     ]
   },
   "interests": [
@@ -32,32 +32,31 @@
       "studyType": "B.S.",
       "startDate": "2022-08-16",
       "endDate": "Present",
-      "courses": [
-      ]
+      "courses": []
     }
   ],
   "work": [
     {
-      "company": "Lawerence Livermore National Laboratory",
+      "company": "Lawrence Livermore National Laboratory",
       "position": "Data Science Fellow",
       "website": "",
       "startDate": "2025-05-20",
       "endDate": "Present",
       "summary": "Contributed to Computational Visual Perception Research",
       "highlights": [
-         "Developed and trained PyTorch-based neural networks to predict image quality of video frames, enhancing video object detection performance.",
-        "Collaborated in a data science challenge with fellow interns, designing and training models to predict amodal masks for objects in video sequences.",
+        "Developed and trained PyTorch-based neural networks to predict image quality of video frames, enhancing video object detection performance.",
+        "Collaborated in a data science challenge with fellow interns, designing and training models to predict amodal masks for objects in video sequences."
       ]
     },
     {
       "company": "Women in Data Science Worldwide",
-      "position": "Data Sciene intern",
+      "position": "Data Science Intern",
       "website": "https://www.widsworldwide.org/",
       "startDate": "2024-09-01",
       "endDate": "2025-02-01",
-      "summary": "Assisted in organizing the 2025 Women in Data Science (WiDS) annual datathon"
+      "summary": "Assisted in organizing the 2025 Women in Data Science (WiDS) annual datathon.",
       "highlights": [
-        "Developed a Jupyter Notebook and led workshops for 100+ participants to predict ADHD in adolescent girls using socio-demographic, parenting and connectome data. Guided data exploration, cleaning, and multi-output machine learning model development for ADHD diagnosis and patient sex prediction"
+        "Developed a Jupyter Notebook and led workshops for 100+ participants to predict ADHD in adolescent girls using socio-demographic, parenting and connectome data. Guided data exploration, cleaning, and multi-output machine learning model development for ADHD diagnosis and patient sex prediction."
       ]
     }
   ],
@@ -72,7 +71,7 @@
       "title": "First place",
       "date": "2015",
       "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "summary": "My team won first place in 2015. See my portfolio site for more details."
     }
   ],
   "references": [
