@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: img/DSC_pic.JPEG
-title: "2025 Lawrence Livermore National Laboratorie Data Science Challenge"
+title: "2025 Lawrence Livermore National Laboratory Data Science Challenge"
 date: July 2025
 published: true
 labels:
@@ -10,7 +10,8 @@ labels:
 summary: "Competed in a Computer Vision Data Science Challenge with a team of interns"
 ---
 
-One of the most innovative uses of AI today is computer vision, a problem computer vision technology has is detecting the full object even when occluded by its surrondings. 
-That is why as part of my Data Science Summer Instuite internship at livemore they had us solve the problem of amodal contnet completeion of objects in video. By exploring and 
-benchmarking off the shelf model architectures vs from scratch unet architectures we explored the trade off between efficiency and accuracy in computer vision technology. 
+Computer vision is one of the most innovative applications of artificial intelligence today. A key challenge in this field is accurately detecting and reconstructing objects that are partially hidden or occluded by their surroundings.  
 
+During my Data Science Summer Institute internship at Lawrence Livermore National Laboratory, my team and I tackled the problem of amodal content completion for objects in video. We compared off-the-shelf model architectures with custom U-Net models, analyzing the trade-offs between efficiency and accuracy in computer vision tasks.
+
+<img src="../img/DSC.gif" width="200" class="img-thumbnail" alt="Amodal Content Completion Demo">
