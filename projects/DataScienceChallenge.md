@@ -14,4 +14,4 @@ Computer vision is one of the most innovative applications of artificial intelli
 
 During my Data Science Summer Institute internship at Lawrence Livermore National Laboratory, my team and I tackled the problem of amodal content completion for objects in video. We compared off-the-shelf model architectures with custom U-Net models, analyzing the trade-offs between efficiency and accuracy in computer vision tasks.
 
-<img src="../img/DSC.gif" width="200" class="img-thumbnail" alt="Amodal Content Completion Demo">
+<img src="../img/DSC.gif" class="img-thumbnail" alt="Amodal Content Completion Demo">
