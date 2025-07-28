@@ -1,0 +1,16 @@
+---
+layout: project
+type: project
+image: img/DSC_pic.JPEG
+title: "2025 Lawrence Livermore National Laboratorie Data Science Challenge"
+date: July 2025
+published: true
+labels:
+  - Github
+summary: "Competed in a Computer Vision Data Science Challenge with a team of interns"
+---
+
+One of the most innovative uses of AI today is computer vision, a problem computer vision technology has is detecting the full object even when occluded by its surrondings. 
+That is why as part of my Data Science Summer Instuite internship at livemore they had us solve the problem of amodal contnet completeion of objects in video. By exploring and 
+benchmarking off the shelf model architectures vs from scratch unet architectures we explored the trade off between efficiency and accuracy in computer vision technology. 
+
