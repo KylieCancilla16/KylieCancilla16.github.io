@@ -6,7 +6,7 @@ title: "2025 Lawrence Livermore National Laboratory Data Science Challenge"
 date: July 2025
 published: true
 labels:
-  - Github
+  - Computer Vision
 summary: "Competed in a Computer Vision Data Science Challenge with a team of interns"
 ---
 
