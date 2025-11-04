@@ -1,0 +1,14 @@
+---
+layout: project
+type: project
+image: img/paperGIF.mp4
+title: "Training for X-Ray Vision: Amodal Segmentation, Amodal Content Completion, and View-Invariant Object Representation from Multi-Camera Video"
+date: July 2025
+published: true
+labels:
+  - Computer Vision
+summary: "Co-Authored a Arxiv Preprint That Published MOVi-MC-AC: Multiple Object Video with Multi-Cameras and Amodal Content, the largest amodal segmentation and first amodal content dataset to date. "
+---
+
+
+<iframe src="img/Movi_MC_AC.pdf" width="100%" height="500px" frameborder="0"></iframe>
