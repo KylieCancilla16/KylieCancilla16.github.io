@@ -13,12 +13,15 @@
       { "network": "mortarboard-fill", "username": "KylieCancilla", "url": "https://scholar.google.com/citations?hl=en&user=SwsoJJwAAAAJ"}
     ]
   },
-  "interests": [
-    { "name": "Deep Learning Architectures" },
-    { "name": "AI Innovations" },
-    { "name": "Transfer Learning in Medical Applications" },
-    { "name": "Predictive Modeling for Disease prevention" }
-  ],
+"interests": [
+  { "name": "Predictive Modeling for Disease Prevention" },
+  { "name": "Deep Learning Architectures" },
+  { "name": "Biomarker Discovery and Validation" },
+  { "name": "Clinical Trial Design and Analysis" },
+  { "name": "Precision Medicine and Treatment Response Prediction" },
+  { "name": "Causal Inference in Health Research" },
+  { "name": "Machine Learning for Early Disease Detection" }
+]
   "skills": [
     {
       "name": "Languages and Frameworks",
