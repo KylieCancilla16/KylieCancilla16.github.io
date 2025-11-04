@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/WiDs_workshop.jpeg
 title: "WiDs 2025 Datathon Workshops"
-date: January 2025
+date: 2025-01-09
 published: true
 labels:
   - Github
