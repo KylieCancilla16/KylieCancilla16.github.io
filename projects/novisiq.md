@@ -4,7 +4,7 @@ type: project
 image: img/NovisIQ_poster.jpg
 title: "NoVisIQ: Convolutional Neural Network for No-Reference Objective Image
 Quality Assessment"
-date: August 6 2025
+date: 2025-08-06
 published: true
 labels:
   - Computer Vision
