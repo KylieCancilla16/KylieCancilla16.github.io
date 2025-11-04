@@ -14,12 +14,10 @@
     ]
   },
 "interests": [
-  { "name": "Predictive Modeling for Disease Prevention" },
+  { "name": "Predictive Modeling for Disease Detection and Prevention" },
   { "name": "Deep Learning Architectures" },
-  { "name": "Biomarker Discovery and Validation" },
+  { "name": "Computer vision"},
   { "name": "Clinical Trial Design and Analysis" },
-  { "name": "Precision Medicine and Treatment Response Prediction" },
-  { "name": "Causal Inference in Health Research" },
   { "name": "Machine Learning for Early Disease Detection" }
 ],
   "skills": [
