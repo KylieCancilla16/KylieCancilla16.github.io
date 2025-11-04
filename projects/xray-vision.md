@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/paperGIF.gif.gif
 title: "Training for X-Ray Vision: Amodal Segmentation, Amodal Content Completion, and View-Invariant Object Representation from Multi-Camera Video"
-date: July 2025
+date: July 2 2025
 published: true
 labels:
   - Computer Vision
