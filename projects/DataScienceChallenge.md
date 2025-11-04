@@ -6,7 +6,8 @@ title: "2025 Lawrence Livermore National Laboratory Data Science Challenge"
 date: 2025-07-25
 published: true
 labels:
-  - Computer Vision
+  - Amodal Segmentation Model
+  - Model architectures comparison
 summary: "Competed in a Computer Vision Data Science Challenge with a team of interns"
 ---
 
