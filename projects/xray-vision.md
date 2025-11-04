@@ -6,7 +6,8 @@ title: "Training for X-Ray Vision: Amodal Segmentation, Amodal Content Completio
 date: 2025-07-02
 published: true
 labels:
-  - Computer Vision
+  - Amodal Segmentation
+  - Dataset publication
 summary: "Co-Authored a Arxiv Preprint That Published MOVi-MC-AC: Multiple Object Video with Multi-Cameras and Amodal Content, the largest amodal segmentation and first amodal content dataset to date. "
 ---
 
