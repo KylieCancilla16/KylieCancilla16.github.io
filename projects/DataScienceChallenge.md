@@ -7,7 +7,7 @@ date: 2025-07-25
 published: true
 labels:
   - Amodal Segmentation Model
-  - Model architectures comparison
+  - Benchmarking Model architectures 
 summary: "Competed in a Computer Vision Data Science Challenge with a team of interns"
 ---
 
