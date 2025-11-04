@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/DSC_pic.JPEG
 title: "2025 Lawrence Livermore National Laboratory Data Science Challenge"
-date: July 2025
+date: July 25 2025
 published: true
 labels:
   - Computer Vision
