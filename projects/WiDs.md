@@ -10,7 +10,7 @@ labels:
 summary: "Three workshops walking participants through a kaggle datathon."
 ---
 
-Women in Data Science (WiDS) Worldwide hosts an annual datathon. For the 2025 event, I led three workshops that provided guidance on tackling the challenge, which focused on predicting ADHD in adolescent girls using socio-demographic, parenting, and connectome data.
+Women in Data Science (WiDS) Worldwide hosts an annual datathon. For the 2025 event, we led three workshops that provided guidance on tackling the challenge, which focused on predicting ADHD in adolescent girls using socio-demographic, parenting, and connectome data. We also created two tutorial Jupyter Notebooks for University and Global participants both can be found on my github page.
 
 <p>Watch the workshop recordings here:</p>
 
