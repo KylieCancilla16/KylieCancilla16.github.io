@@ -8,7 +8,6 @@ published: true
 labels:
   - Computer vision
   - Streaming based CNN
-  - Publication
 summary: "Fist Author on an ArXiv Paper that presents a scalable, streaming-based VQA model that is both no-reference and opinion unaware."
 ---
 
