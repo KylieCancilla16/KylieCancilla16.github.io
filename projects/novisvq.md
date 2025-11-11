@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/novsivq4.jpg
+image: img/novisvq5.jpg
 title: "NovisVQ: A Streaming Convolutional Neural Network for No-Reference Opinion-Unaware Frame Quality Assessment"
 date: 2025-11-07
 published: true
