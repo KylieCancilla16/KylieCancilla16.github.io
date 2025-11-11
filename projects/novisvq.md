@@ -6,7 +6,9 @@ title: "NovisVQ: A Streaming Convolutional Neural Network for No-Reference Opini
 date: 2025-11-07
 published: true
 labels:
-  - Github
+  - Computer vision
+  - Streaming based CNN
+  - Publication
 summary: "Fist Author on an ArXiv Paper that presents a scalable, streaming-based VQA model that is both no-reference and opinion unaware."
 ---
 
