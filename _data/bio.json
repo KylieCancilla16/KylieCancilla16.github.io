@@ -33,13 +33,13 @@
       "studyType": "B.S.",
       "startDate": "2022-08-16",
       "endDate": "Present",
-      "courses": []
+      "courses": ["Multi-Variate Calculus", "Linear Algebra", "Probability with Applications", "Statistics with Applications", "Linear Regression", "Data Structures & Algorithms", "Statistical Learning (Spring 2026)", "Real Analysis (Spring 2026)"]
     }
   ],
     "Publications": [
     {
       "K. Cancilla, A. Moore, A. Saini, C. Carrano. NovisVQ: A Streaming CNN for No-Reference Opinion-Unaware Frame Quality Assessment. arXiv preprint arxiv.org/abs/2511.04628 (November 2025)."
-    }
+    },
     { 
       "A. Moore, A. Saini, K. Cancilla, D. Poland, C. Carrano. Training for X-Ray Vision: Amodal Segmentation and Amodal Content Completion from Multi-Camera Video. arXiv preprint arxiv.org/abs/2507.00339 (July 2025)."
     }
