@@ -10,22 +10,31 @@
     "profiles": [
       { "network": "github", "username": "KylieCancilla16", "url": "http://github.com/KylieCancilla16" },
       { "network": "linkedin", "username": "KylieCancilla", "url": "https://www.linkedin.com/in/kylie-cancilla/" },
-      { "network": "mortarboard-fill", "username": "KylieCancilla", "url": "https://scholar.google.com/citations?hl=en&user=SwsoJJwAAAAJ"}
+      { "network": "mortarboard-fill", "username": "KylieCancilla", "url": "https://scholar.google.com/citations?hl=en&user=SwsoJJwAAAAJ" }
     ]
   },
-"interests": [
-  { "name": "Predictive Modeling for Disease Detection and Prevention" },
-  { "name": "Deep Learning Architectures" },
-  { "name": "Computer vision"},
-  { "name": "Clinical Trial Design and Analysis" },
-  { "name": "Machine Learning for Early Disease Detection" }
-],
+
+  "interests": [
+    { "name": "Predictive Modeling for Disease Detection and Prevention" },
+    { "name": "Deep Learning Architectures" },
+    { "name": "Computer vision" },
+    { "name": "Clinical Trial Design and Analysis" },
+    { "name": "Machine Learning for Early Disease Detection" }
+  ],
+
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "Python (PyTorch, Pandas, NumPy, Scikit-learn, Matplotlib)", "Java", "R", "HTML", "SQL" ]
+      "keywords": [
+        "Python (PyTorch, Pandas, NumPy, Scikit-learn, Matplotlib)",
+        "Java",
+        "R",
+        "HTML",
+        "SQL"
+      ]
     }
   ],
+
   "education": [
     {
       "institution": "University of San Francisco",
@@ -33,17 +42,28 @@
       "studyType": "B.S.",
       "startDate": "2022-08-16",
       "endDate": "Present",
-      "courses": ["Multi-Variate Calculus", "Linear Algebra", "Probability with Applications", "Statistics with Applications", "Linear Regression", "Data Structures & Algorithms", "Statistical Learning (Spring 2026)", "Real Analysis (Spring 2026)"]
+      "courses": [
+        "Multi-Variate Calculus",
+        "Linear Algebra",
+        "Probability with Applications",
+        "Statistics with Applications",
+        "Linear Regression",
+        "Data Structures & Algorithms",
+        "Statistical Learning (Spring 2026)",
+        "Real Analysis (Spring 2026)"
+      ]
     }
   ],
-    "Publications": [
+
+  "publications": [
     {
-      "K. Cancilla, A. Moore, A. Saini, C. Carrano. NovisVQ: A Streaming CNN for No-Reference Opinion-Unaware Frame Quality Assessment. arXiv preprint arxiv.org/abs/2511.04628 (November 2025)."
+      "citation": "K. Cancilla, A. Moore, A. Saini, C. Carrano. NovisVQ: A Streaming CNN for No-Reference Opinion-Unaware Frame Quality Assessment. arXiv preprint arxiv.org/abs/2511.04628 (November 2025)."
     },
-    { 
-      "A. Moore, A. Saini, K. Cancilla, D. Poland, C. Carrano. Training for X-Ray Vision: Amodal Segmentation and Amodal Content Completion from Multi-Camera Video. arXiv preprint arxiv.org/abs/2507.00339 (July 2025)."
+    {
+      "citation": "A. Moore, A. Saini, K. Cancilla, D. Poland, C. Carrano. Training for X-Ray Vision: Amodal Segmentation and Amodal Content Completion from Multi-Camera Video. arXiv preprint arxiv.org/abs/2507.00339 (July 2025)."
     }
-  ]
+  ],
+
   "work": [
     {
       "company": "Lawrence Livermore National Laboratory",
@@ -53,9 +73,8 @@
       "summary": "Contributed to Computational Visual Perception Research",
       "highlights": [
         "Developed NoVisIQ, a no-reference deep learning model that predicts LPIPS, PSNR, and SSIM from synthetically distorted images, supporting robust frame quality assessment.",
-"Collaborated with other interns on the 2025 Data Science Challenge, implementing and benchmarking 3D U-Net and Diffusion-VAS models for amodal video content completion.",
-"Iteratively enhanced the model from an image-based to streaming-based architecture (NoVisVQ), substantially improving prediction accuracy with up to 84.7% MAE reduction across quality metrics and strong correlations to ground truth. Published comparative analysis on arXiv (November 2025)."
-
+        "Collaborated with other interns on the 2025 Data Science Challenge, implementing and benchmarking 3D U-Net and Diffusion-VAS models for amodal video content completion.",
+        "Iteratively enhanced the model from an image-based to streaming-based architecture (NoVisVQ), substantially improving prediction accuracy with up to 84.7% MAE reduction across quality metrics and strong correlations to ground truth. Published comparative analysis on arXiv (November 2025)."
       ]
     },
     {
@@ -68,17 +87,18 @@
       "highlights": [
         "Developed a Jupyter Notebook and led workshops for 100+ participants to predict ADHD in adolescent girls using socio-demographic, parenting and connectome data. Guided data exploration, cleaning, and multi-output machine learning model development for ADHD diagnosis and patient sex prediction."
       ]
-    }
+    },
     {
-      "company": "University of San Francisco Math/Data Science Department  ",
+      "company": "University of San Francisco Math/Data Science Department",
       "position": "Peer Tutor",
       "startDate": "2024-01-01",
       "endDate": "Present",
       "highlights": [
-        "Led departmental open study sessions for  students in Pre-Calc, Calc I–III, and Linear Algebra."
+        "Led departmental open study sessions for students in Pre-Calc, Calc I–III, and Linear Algebra."
       ]
     }
   ],
+
   "awards": [
     {
       "title": "Presidential Scholarship",
