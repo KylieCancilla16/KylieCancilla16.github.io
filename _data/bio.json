@@ -36,17 +36,26 @@
       "courses": []
     }
   ],
+    "Publications": [
+    {
+      "K. Cancilla, A. Moore, A. Saini, C. Carrano. NovisVQ: A Streaming CNN for No-Reference Opinion-Unaware Frame Quality Assessment. arXiv preprint arxiv.org/abs/2511.04628 (November 2025)."
+    }
+    { 
+      "A. Moore, A. Saini, K. Cancilla, D. Poland, C. Carrano. Training for X-Ray Vision: Amodal Segmentation and Amodal Content Completion from Multi-Camera Video. arXiv preprint arxiv.org/abs/2507.00339 (July 2025)."
+    }
+  ]
   "work": [
     {
       "company": "Lawrence Livermore National Laboratory",
       "position": "Data Science Fellow",
-      "website": "",
       "startDate": "2025-05-20",
       "endDate": "Present",
       "summary": "Contributed to Computational Visual Perception Research",
       "highlights": [
-        "Developed and trained PyTorch-based neural networks to predict image quality of video frames, enhancing video object detection performance.",
-        "Collaborated in a data science challenge with fellow interns, designing and training models to predict amodal masks for objects in video sequences."
+        "Developed NoVisIQ, a no-reference deep learning model that predicts LPIPS, PSNR, and SSIM from synthetically distorted images, supporting robust frame quality assessment.",
+"Collaborated with other interns on the 2025 Data Science Challenge, implementing and benchmarking 3D U-Net and Diffusion-VAS models for amodal video content completion.",
+"Iteratively enhanced the model from an image-based to streaming-based architecture (NoVisVQ), substantially improving prediction accuracy with up to 84.7% MAE reduction across quality metrics and strong correlations to ground truth. Published comparative analysis on arXiv (November 2025)."
+
       ]
     },
     {
@@ -60,6 +69,15 @@
         "Developed a Jupyter Notebook and led workshops for 100+ participants to predict ADHD in adolescent girls using socio-demographic, parenting and connectome data. Guided data exploration, cleaning, and multi-output machine learning model development for ADHD diagnosis and patient sex prediction."
       ]
     }
+    {
+      "company": "University of San Francisco Math/Data Science Department  ",
+      "position": "Peer Tutor",
+      "startDate": "2024-01-01",
+      "endDate": "Present",
+      "highlights": [
+        "Led departmental open study sessions for  students in Pre-Calc, Calc I–III, and Linear Algebra."
+      ]
+    }
   ],
   "awards": [
     {
@@ -68,7 +86,7 @@
       "awarder": "University of San Francisco"
     },
     {
-      "title": "Dean's Honor Roll - 4.0 GPA",
+      "title": "Dean's Honor Roll - 3.99 GPA",
       "date": "2022-present",
       "awarder": "University of San Francisco"
     }
