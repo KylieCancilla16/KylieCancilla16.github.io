@@ -7,9 +7,16 @@ date: 2025-12-04
 published: true
 labels:
   - Github
+  - Linear Regression
+  - Lasso
+  - Diagnostics
+  - Feature significance analysis
 summary: "Performed linear regression on census data to understand socio-demographic and georgraphical features that effect cancer rates in counties."
 ---
 
-<p><a href="Regression_cancerRatePredictionPerCounty.html" target="_blank">
-👉 View the full interactive regression website
-</a></p>
+<iframe 
+  src="/projects/regression/Regression_cancerRatePredictionPerCounty.html" 
+  width="100%" 
+  height="800px"
+  style="border:none;"
+></iframe>
