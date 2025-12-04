@@ -6,11 +6,10 @@ title: "Linear Regression on Predicted Cancer Rates of Counties"
 date: 2025-12-04
 published: true
 labels:
-  - Github
   - Linear Regression
+  - Coefficient analysis 
   - Lasso
-  - Diagnostics
-  - Feature significance analysis
+  - Diagnostics 
 summary: "Performed linear regression on census data to understand socio-demographic and georgraphical features that effect cancer rates in counties."
 ---
 
