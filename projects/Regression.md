@@ -15,7 +15,7 @@ summary: "Performed linear regression on census data to understand socio-demogra
 ---
 
 <iframe 
-  src="/projects/regression/Regression_cancerRatePredictionPerCounty.html" 
+  src="Regression_cancerRatePredictionPerCounty.html" 
   width="100%" 
   height="800px"
   style="border:none;"
