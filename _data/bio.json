@@ -15,11 +15,10 @@
   },
 
   "interests": [
+    { "name": "Conscientious Data Science for Sustainable Futures"},
     { "name": "Predictive Modeling for Disease Detection and Prevention" },
-    { "name": "Deep Learning Architectures" },
-    { "name": "Computer vision" },
-    { "name": "Clinical Trial Design and Analysis" },
-    { "name": "Machine Learning for Early Disease Detection" }
+    { "name": "Statistical Methods for Personalized Medicine and Biomarker Discovery" },
+    { "name": "Biomedical applications of Computer Vision Technology" }
   ],
 
   "skills": [
