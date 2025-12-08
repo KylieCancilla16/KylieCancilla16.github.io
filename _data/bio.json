@@ -17,7 +17,8 @@
   "interests": [
     { "name": "Conscientious Data Science for Sustainable Futures"},
     { "name": "Statistical Methods for Personalized Medicine and Biomarker Discovery" },
-    { "name": "Biomedical applications of Computer Vision Technology" }
+    { "name": "Biomedical applications of Computer Vision Technology" },
+    {"name": "Design and analysis of HIV vaccine efficacy trials"}
   ],
 
   "skills": [
