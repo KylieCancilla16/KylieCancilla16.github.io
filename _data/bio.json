@@ -16,7 +16,6 @@
 
   "interests": [
     { "name": "Conscientious Data Science for Sustainable Futures"},
-    { "name": "Predictive Modeling for Disease Detection and Prevention" },
     { "name": "Statistical Methods for Personalized Medicine and Biomarker Discovery" },
     { "name": "Biomedical applications of Computer Vision Technology" }
   ],
