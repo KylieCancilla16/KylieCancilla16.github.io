@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/CancerRegression.png
+image: img/Cancerreg.png
 title: "Linear Regression on Predicted Cancer Rates of Counties"
 date: 2025-12-04
 published: true
