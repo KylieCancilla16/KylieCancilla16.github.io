@@ -15,9 +15,11 @@
   },
 
   "interests": [
-    { "name": "Conscientious Data Science for Sustainable Futures"},
-    { "name": "Statistical Methods for Personalized Medicine and Biomarker Discovery" },
-    { "name": "Biomedical applications of Computer Vision Technology" }
+    { "name": "Ethical and Equitable Data Science for Environmental and Public Health"},
+    { "name": "Statistical Methods for HIV Cure Research and Infectious Disease" },
+    {"name": "Environmental Biostatistics and Environmental Health"},
+    { "name": "Health Equity and Disparities in Underserved and Marginalized Populations" },
+    {"name": "Deep Learning for Medical Imaging and Spatial Omics"}
   ],
 
   "skills": [
