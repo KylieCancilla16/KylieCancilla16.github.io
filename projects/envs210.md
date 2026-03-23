@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/ENVS210Symposium.jpeg
+image: img/ENVS330PosterSymposium.png
 title: "Comparative Analysis of E. Coli and Enterococci Concentrations of two San Francisco Recreational Lakes"
 date: 2025-11-24
 published: true
