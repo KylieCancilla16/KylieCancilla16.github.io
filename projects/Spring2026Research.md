@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/Card2026.jpeg
+image: img/Card2026.jpg
 title: "Graph-Based Clustering of MRI Connectivity Networks for Antidepressant Remission Prediction in Late-Life Depression"
 date: 2026-05-08
 published: true
