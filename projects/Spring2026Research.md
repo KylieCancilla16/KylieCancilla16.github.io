@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: ClusteringfMRIS_PosterFInal.png
+image: img/ClusteringfMRIS_PosterFInal.png
 title: "Graph-Based Clustering of MRI Connectivity Networks for Antidepressant Remission Prediction in Late-Life Depression"
 date: 2026-05-08
 published: true
@@ -11,4 +11,4 @@ labels:
 summary: "The aim of this research is to improve antidepressant remission prediction in late-life depression by identifying neurobiological subgroups via graph-based clustering of fMRI connectivity prior to prediction. This research was presented at the 2026 Creative Activity and Research Day for the College of Arts and Sciences at the University of San Francisco"
 ---
 
-<img src="..ClusteringfMRIS_PosterFInal.png" class="img-thumbnail" alt="Graph-Based Clustering of fMRIs">
+<img src="..img/ClusteringfMRIS_PosterFInal.png" class="img-thumbnail" alt="Graph-Based Clustering of fMRIs">
