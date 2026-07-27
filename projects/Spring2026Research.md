@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/ClusteringfMRIS_PosterFInal.png
+image: img/IMG_1734.HEIC
 title: "Graph-Based Clustering of MRI Connectivity Networks for Antidepressant Remission Prediction in Late-Life Depression"
 date: 2026-05-08
 published: true
