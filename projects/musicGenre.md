@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/genreSlides.jpg
+image: img/music.jpeg
 title: "Classification by Genre"
 date: 2026-04-30
 published: true
@@ -13,7 +13,7 @@ summary: "Our project explored whether features like danceability, loudness, ene
 ---
 
 <iframe 
-  src="Math373FinalProject2.html" 
+  src="/img/Math373FinalProject2.html" 
   width="100%" 
   height="800px"
   style="border:none;"
