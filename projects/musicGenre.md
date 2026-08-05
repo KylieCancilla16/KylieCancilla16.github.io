@@ -2,8 +2,8 @@
 layout: project
 type: project
 image: img/math373.jpg
-title: "Linear Regression on Predicted Cancer Rates of Counties"
-date: 2025-12-04
+title: "Classification by Genre"
+date: 2026-04-30"
 published: true
 labels:
   - Clustering
