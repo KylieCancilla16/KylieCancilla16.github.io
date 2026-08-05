@@ -13,4 +13,7 @@ summary: "This paper explores the decline of North American avifauna and the eff
 ---
 
 
-
+<iframe src="img/declinePaper.pdf" width="100%" height="600px">
+  <p>Your browser does not support PDFs. 
+  <a href="img/declinePaper.pdf">Download the PDF</a>.</p>
+</iframe>
