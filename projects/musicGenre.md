@@ -8,7 +8,7 @@ published: true
 labels:
   - Clustering
   - Principal Component Analysis
-  - Comparative Analysis (QDA, LDA, Random Forest, Naives Bayes, KNN)
+  - Comparative Analysis
 summary: "Our project explored whether features like danceability, loudness, energy, and release year can predict the genre of a song. We applied clustering and PCA for exploratory analysis, then compared model performance across QDA, LDA, Random Forest, Naive Bayes, and KNN."
 ---
 
