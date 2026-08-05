@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/math373.jpg
+image: img/genreSlides.jpg
 title: "Classification by Genre"
 date: 2026-04-30
 published: true
